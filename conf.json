@@ -1,0 +1,25 @@
+﻿{
+  "Username": "your server user",
+  "Password": "your server password",
+  "ServerHost": "localhost", 
+  "Url": "http://localhost",
+  "Environment": "Staging",
+  "Api": "API-your APIKEY", 
+  "Database": "current database name",
+  "OctopusPath": "C:\\Program Files\\Octopus Deploy\\Octopus\\Octopus.Migrator.exe",
+  "OctopusExe": "C:\\Program Files\\Octopus Deploy\\Octopus\\Octopus.Server.exe",
+  "ExportDirectory": "C:\\export",
+  "ExportOldDirectory": "c:\\backup\\export",
+  "ExportPassword": "export password",
+  "InstanceName": "OctopusServer",
+  "OctopusUser": "your octopus user",
+  "OctopusPassword": "octopus password",
+  "OctopusMail": "email address",
+  "license": "your license in base64",
+  "weburl": "http://localhost:80/",
+  "ConfigName": "C:\\Octopus\\OctopusServer.config",
+  "ConnectString": "Data Source=serverip\SQLEXPRESS,SQLPORT;Initial Catalog=DATABASE_NAME;Integrated Security=False;User ID=DB_USER;Password=DB_PASS",
+  "NodeName": "OCTOPUS",
+  "CommPort": "10943"
+  
+  }
