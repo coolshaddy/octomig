@@ -1,0 +1,12 @@
+﻿{
+  "Username": "sandeep",
+  "Password": "Admin@123$$",
+  "ServerHost": "localhost", 
+  "Url": "http://localhost",
+  "Environment": "Staging",
+  "Api": "API-XTWRYHXPC7XZ7BKVFVSYS0LQM", 
+  "Database": "octopusdb"
+
+  
+  
+}
